@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.xemplar.portio"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "monolith",
+    "baseName": "portio",
+    "packageName": "com.xemplar.portio",
+    "packageFolder": "com/xemplar/portio",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MjZjYjNlMzg4MTNiZGMzNGE1ZDcxN2MzMTYzYTNjZGU1YmRiODU1YmY5NjBiMWQ4YzgyM2U5NjIyNTgyNmY3YjNkNDlhYmI5OGMxNDE1NzQ0MjQ4NTY3ZGVjNGJkOTAyMGIxMTdlOTU4NThiZGZkYmUzOGRmYzBkMjAyOWQ4OTE=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1611004494648,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
